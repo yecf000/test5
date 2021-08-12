@@ -1,0 +1,47 @@
+
+.cal.data-v-0c17df90{
+	margin-top: -50rpx;
+}
+.touxiang.data-v-0c17df90{
+	background-color: #5C5CF2;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-bottom: 50rpx;
+}
+.touxiang image.data-v-0c17df90{
+	margin: 50rpx;
+	width: 180rpx;
+	height: 180rpx;
+	background-color: #FFFFFF;
+	border-radius: 50%;
+}
+.userinfo.data-v-0c17df90{
+	margin-right: 60rpx;
+	width: 400rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.userinfo text.data-v-0c17df90:nth-child(1){
+	background-color: #5C5CF2;
+	color: #FFFFFF;
+	padding-bottom: 20rpx;
+	border-bottom: #8A8FF7 1rpx solid;
+}
+.userinfo text.data-v-0c17df90:nth-child(2){
+	background-color: #5C5CF2;
+	color: #FFFFFF;
+	padding-top: 20rpx;
+}
+

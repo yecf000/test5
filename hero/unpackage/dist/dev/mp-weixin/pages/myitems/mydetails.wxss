@@ -1,0 +1,27 @@
+
+.mydetails view.data-v-2eb6cbb2{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 100rpx;
+	border-bottom: 1px solid #D1D1D1;
+}
+.mydetails view text.data-v-2eb6cbb2{
+	margin-left: 50rpx;
+}
+.mydetails view text.data-v-2eb6cbb2:nth-child(2){
+	margin-right: 50rpx;
+}
+.getnowtouxiang.data-v-2eb6cbb2{
+	background: url();
+}
+.getnowtouxiang text.data-v-2eb6cbb2{
+	margin-right: 50rpx;
+}
+

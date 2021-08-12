@@ -1,0 +1,12 @@
+
+.jituanjieshaoimg.data-v-807122b4{
+	margin-top: 10rpx;
+}
+.jituanjieshao image.data-v-807122b4{
+	width: 100%;
+	height: 300rpx;
+}
+.jituancontent.data-v-807122b4{
+	padding: 20rpx;
+}
+

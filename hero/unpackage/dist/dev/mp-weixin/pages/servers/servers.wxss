@@ -1,0 +1,73 @@
+
+.active.data-v-0078d828{
+	color: #5C5CF2;
+	border-bottom: 10rpx #5C5CF2 solid;
+}
+.dayijiehuoimg.data-v-0078d828{
+	margin-top: 10rpx;
+}
+.dayijiehuo image.data-v-0078d828{
+	width: 100%;
+	height: 300rpx;
+}
+.dayi-nav.data-v-0078d828{
+	width: 700rpx;
+	margin-left: 20rpx;
+	margin-top: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	color: #676767;
+	border-bottom: #E8E8E8 1rpx solid;
+}
+.dayi-nav text.data-v-0078d828:nth-child(1){
+	margin-left: -0rpx;
+}
+.dayi-nav text.data-v-0078d828{
+	margin-left: 80rpx;
+	text-align: center;
+	width: 80rpx;
+}
+.nav_items.data-v-0078d828{
+	padding: 20rpx;
+	margin: 30rpx;
+}
+.hengxian.data-v-0078d828{
+	margin-top: 20rpx;
+	margin-bottom: 20rpx;
+	border-bottom: 2rpx #DCDCDC solid;
+}
+.nav_item.data-v-0078d828{
+	margin-bottom: 15rpx;
+}
+.question.data-v-0078d828{
+}
+.question text.data-v-0078d828{
+	
+	color: #FFAF71;
+}
+.anwser.data-v-0078d828{
+	color: #626262;
+}
+.myclass1.data-v-0078d828{
+	background-color: #F1F1F1;
+}
+.bot-png.data-v-0078d828{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.bot-png image.data-v-0078d828{
+	padding-top: 20rpx;
+	margin: 0 auto;
+	width: 75%;
+	height: 80rpx;
+	margin-bottom: 30rpx;
+}
+

@@ -1,0 +1,15 @@
+
+.child-items.data-v-378a34c2{
+	color: #858585;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin: 30rpx;
+	padding: 10rpx;
+	padding-bottom: 30rpx;
+	border-bottom: 1px #D1D1D1 solid;
+}
+

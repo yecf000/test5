@@ -1,0 +1,132 @@
+
+.title-png.data-v-02449650{
+	margin-top: 10rpx;
+	height: 300rpx;
+}
+.title-png image.data-v-02449650{
+	width: 101%;
+	height: 300rpx;
+}
+.nav.data-v-02449650{
+	width: 92%;
+	margin: 30rpx;
+	margin-top: 50rpx;
+	padding-bottom: 15rpx;
+	border-bottom: 1px #D1D1D1 solid;
+}
+.nav text.data-v-02449650{
+	padding: 10rpx;
+}
+.unselected.data-v-02449650{
+	background-color: #F2F2F2;
+	color: #636363;
+}
+.selected.data-v-02449650{
+	background-color: #5C5CF2;
+	color: #FFFFFF;
+}
+.nav text.data-v-02449650:nth-child(2){
+	margin-left: 5rpx;
+}
+.form.data-v-02449650{
+	font-size: 35rpx;
+	width: 92%;
+	height: 800rpx;
+	margin: 0 auto;
+}
+.form-nav.data-v-02449650{
+	font-size: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 60rpx;
+	background-color: #5C5CF2;
+	color: #FFFFFF;
+}
+.form-nav text.data-v-02449650:nth-child(1){
+	width: 200rpx;
+	margin: 0 auto;
+}
+.form-nav text.data-v-02449650:nth-child(2){
+	width: 80rpx;
+	margin: 0 auto;
+}
+.form-nav text.data-v-02449650:nth-child(3){
+	width: 80rpx;
+	margin: 0 auto;
+}
+.data.data-v-02449650{
+	font-size: 27rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 60rpx;
+	background-color: #F2F2F2;
+}
+.data text.data-v-02449650:nth-child(1){
+	margin-left: -50rpx;
+	width: 320rpx;
+	text-align: center;
+}
+.data text.data-v-02449650:nth-child(2){
+	margin-left: 80rpx;
+	width: 200rpx;
+	text-align: center;
+}
+.data text.data-v-02449650:nth-child(3){
+	width: 250rpx;
+	text-align: center;
+	color: #F07496;
+}
+.data text.data-v-02449650{
+	color: #888888;
+}
+.shijianzhou.data-v-02449650{
+	height: 100px;
+	background-color: #FFFFFF;
+}
+.jiangli view.data-v-02449650{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-top: 5rpx;
+	height: 100rpx;
+	background-color: #F7F7F7;
+}
+.jiangli view text.data-v-02449650:nth-child(1){
+	width: 200rpx;
+	margin-left: 20rpx;
+	color: #888888;
+	font-size: 30rpx;
+}
+.jiangli view text.data-v-02449650:nth-child(2){
+	width: 200rpx;
+	margin-left: 20rpx;
+	color: #F07496;
+	font-size: 25rpx;
+}
+.butcolor.data-v-02449650{
+		color: #FFFFFF;
+		background-color:#CCCCCC ;
+		border-radius: 0;
+		font-size: 25rpx;
+		width: 160rpx;
+		margin-left: 60rpx;
+}
+.butcolor1.data-v-02449650{
+	background-color: #F07496;
+}
+.form2.data-v-02449650{
+	margin-top: 200rpx;
+	height: 200rpx;
+}
+

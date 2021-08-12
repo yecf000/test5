@@ -1,0 +1,325 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 蒙层 */
+.modal-mask {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #000;
+    opacity: 0.5;
+    overflow: hidden;
+    z-index: 1000;
+    color: #fff;
+}
+/* 弹框 */
+.modal-dialog{
+    font-size: 30rpx;
+    width:646rpx;
+    position: fixed;
+    top: 5%;
+    left:0;
+    right: 0;
+    margin:auto;
+    z-index: 1500;
+    background: #ffffff;
+    border-radius: 16rpx;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+            flex-direction: column;
+}
+/*头部类型1样式*/
+.m-title-type1 {
+    height: 88rpx;
+    line-height: 88rpx;
+    text-align: center;
+    -webkit-align-self: stretch;
+            align-self: stretch;
+    font-size: 36rpx;
+    margin-top: 28rpx;
+}
+/*头部类型1样式结束*/
+/*头部类型2样式**/
+.m-title-type2 {
+    height: 88rpx;
+    line-height: 88rpx;
+    text-align: center;
+    -webkit-align-self: stretch;
+            align-self: stretch;
+    font-size: 36rpx;
+}
+/**头部类型2样式结束*/
+/*底部类型1样式*/
+.modal-footer-type1{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    height: 100rpx;
+    border-top: 1rpx solid #E5E5E5;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+.btn-footer-type1{
+    height: 100rpx;
+    width: 280rpx;
+    font-size: 36rpx;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+.btn-l-footer-type1{
+    border-right: 1rpx solid #E5E5E5;
+    color: #333;
+}
+/*底部类型1样式结束*/
+/*底部类型2样式*/
+.modal-footer-type2{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    height: 100rpx;
+    border-top: 1rpx solid #E5E5E5;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+.btn-footer-type2{
+    height: 100rpx;
+    width: 280rpx;
+    font-size: 36rpx;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+/*底部类型2样式结束*/
+/*底部类型3样式*/
+.modal-footer-type3{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    height: 138rpx;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+/*底部类型3样式结束*/
+

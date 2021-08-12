@@ -1,0 +1,68 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/servers/servers",
+    "pages/servers/serversdetail",
+    "pages/news/news",
+    "pages/myitems/myitems",
+    "pages/zhiwei/zhiwei",
+    "pages/zhaopin/zhaopin",
+    "pages/interduce/interduce",
+    "pages/news/newsdetails",
+    "pages/myitems/baoming",
+    "pages/myitems/mydetails",
+    "pages/test/test",
+    "pages/myitems/tuijian",
+    "pages/myitems/rank",
+    "pages/myitems/newspaper",
+    "pages/myitems/jifenduihuan",
+    "pages/myitems/choujiang",
+    "pages/myitems/child/fenshu",
+    "pages/myitems/child/jifenmingxi"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#5C5CF2",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "height": "50px",
+    "fontSize": "10px",
+    "iconWidth": "24px",
+    "spacing": "3px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/nav1-1.png",
+        "selectedIconPath": "static/nav1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/servers/servers",
+        "iconPath": "static/nav2-1.png",
+        "selectedIconPath": "static/nav2.png",
+        "text": "客服"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "iconPath": "static/nav3-1.png",
+        "selectedIconPath": "static/nav3.png",
+        "text": "新闻"
+      },
+      {
+        "pagePath": "pages/myitems/myitems",
+        "iconPath": "static/nav4-1.png",
+        "selectedIconPath": "static/nav4.png",
+        "text": "会员"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,1 @@
+<view class="jituanjieshao data-v-807122b4"><view class="jituanjieshaoimg data-v-807122b4"><image src="../../static/2.jpg" mode class="data-v-807122b4"></image></view><view class="jituancontent data-v-807122b4"><rich-text nodes="{{detaildata.title}}" class="data-v-807122b4"></rich-text><rich-text nodes="{{detaildata.content}}" class="data-v-807122b4"></rich-text></view></view>
